@@ -2,7 +2,7 @@ const data = [
   {
     title: "pork",
     i18n: "เนื้อหมู",
-    data: [
+    info: [
       {
         id: "1",
         i18n: "สันนอกสไลด์",
@@ -56,7 +56,7 @@ const data = [
   {
     title: "beef",
     i18n: "เนื้อวัว",
-    data: [
+    info: [
       {
         id: "9",
         i18n: "เนื้อวัว",
@@ -74,7 +74,7 @@ const data = [
   {
     title: "chicken",
     i18n: "เนื้อไก่",
-    data: [
+    info: [
       {
         id: "11",
         i18n: "เนื้อไก่สไลด์",
@@ -86,7 +86,7 @@ const data = [
   {
     title: "seafood",
     i18n: "อาหารทะเล",
-    data: [
+    info: [
       {
         id: "12",
         i18n: "เนื้อปลาสด",
@@ -140,7 +140,7 @@ const data = [
   {
     title: "meatballs",
     i18n: "ลูกชิ้น",
-    data: [
+    info: [
       {
         id: "20",
         i18n: "คริสตัลไข่ปลา",
@@ -182,7 +182,7 @@ const data = [
   {
     title: "vegatable",
     i18n: "ผัก",
-    data: [
+    info: [
       {
         id: "26",
         i18n: "ชุดผักรวม",
@@ -260,7 +260,7 @@ const data = [
   {
     title: "other",
     i18n: "อื่นๆ",
-    data: [
+    info: [
       {
         id: "38",
         i18n: "เกี๊ยวกุ้ง",
@@ -320,7 +320,7 @@ const data = [
   {
     title: "appetizer",
     i18n: "ของทานเล่น",
-    data: [
+    info: [
       {
         id: "47",
         i18n: "ขนมปังหน้ากุ้ง",
@@ -362,7 +362,7 @@ const data = [
   {
     title: "dessert",
     i18n: "ของหวาน",
-    data: [
+    info: [
       {
         id: "53",
         i18n: "ไอศครีมช็อกโกแลตชิพ",
@@ -416,7 +416,7 @@ const data = [
   {
     title: "drink",
     i18n: "เครื่องดื่ม",
-    data: [
+    info: [
       {
         id: "61",
         i18n: "แดงมะนาวโซดา",
